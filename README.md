@@ -33,4 +33,4 @@
 
 ## 📫 Contact
 
-- Email: ehdqkdehdwn@gmail.com
+- Email: djkim@ihmc.org
